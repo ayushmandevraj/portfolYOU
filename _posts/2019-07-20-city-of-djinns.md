@@ -1,5 +1,5 @@
 ---
-title: City of Djinns: A book review.
+title: City of Djinns, A book review.
 tags: [Book Review, Literature, History]
 style: border
 color: primary
