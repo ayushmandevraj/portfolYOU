@@ -1,12 +1,12 @@
 ---
-title: *City of Djinns*: A book review.
+title: City of Djinns: A book review.
 tags: [Book Review, Literature, History]
 style: border
 color: primary
-description: Review of Willian Dalrymple's City of Djinns..
+description: Review of Willian Dalrymple's City of Djinns.
 ---
 
-# *City of Djinns: A Year in Delhi*
+# City of Djinns: A Year in Delhi
 At the still wet-behind-the-ears age of twenty-five, Dalrymple and his wife went to live in Delhi, and this amazing book is the result of his first year in the city.
 
 {% include elements/figure.html image="https://quicksilver.scoopwhoop.com/unsafe/1260x0/center/https://s4.scoopwhoop.com/anj/jdjdj/531545666.jpg" caption="Cover of City of Djinns" %}
