@@ -2,8 +2,8 @@
 title               : Ayushman Devraj
 description         : >-                               # >- means to ignore newlines until "url:"
                       Ardent movie buff, frustrated lover of literature,  
-                      tech geek, hardcore quizzer, and a  
-                      PhD Research Fellow at Gauhati University.
+                      tech geek, hardcore quizzer, and the
+                      occassional teacher.
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : "/portfolYOU"                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
@@ -14,23 +14,11 @@ repository          : YoussefRaafatNasry/portfolYOU    # repository metadata on 
 author:
   name              : Ayushman Devraj
   image             : https://pbs.twimg.com/profile_images/1144851947477848064/fRYWiAXe_400x400.jpg
-  behance           : 
-# dribbble          : your_username
   email             : username@domain.com
   facebook          : ayushmandevraj
-  github            : your_username
-# gitlab            : your_username
 # instagram         : ayushmandevraj
-  linkedin          : your_username
-  medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
   twitter           : ayushmandevraj
-# vimeo             : your_username
-# youtube           : your_channel_name
+
 
 
 ### Pagination ###
